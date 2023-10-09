@@ -6,7 +6,7 @@ I believe in the power of blending technical precision with artistic flair to cr
 ### Languages and tools
 - HTML
 - CSS
-- Javacript
+- JavaScript
 - Figma
 - VisualStudioCode
 
