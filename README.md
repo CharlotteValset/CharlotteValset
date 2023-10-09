@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, my name is Charlotte! 🤗
+As a Front-End Developer with a deep passion for UX design, I'm on a mission to leverage my 12 years of customer service expertise from the service industry and apply it to the digital realm.
 
-<!--
-**CharlotteValset/CharlotteValset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in the power of blending technical precision with artistic flair to create digital experiences that are not only functional but also visually appealing and user-centered.
 
-Here are some ideas to get you started:
+### Languages and tools
+- HTML
+- CSS
+- Javacript
+- Figma
+- VisualStudioCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+- <a href="mailto: charlottevalset@gmail.com">Gmail</a>
+- [LinkedIn](https://www.linkedin.com/in/charlotte-valset-6195b521a/)
+- [Portfolio](https://charlottevalset-portfolio.netlify.app/)
+
