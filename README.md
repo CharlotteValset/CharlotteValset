@@ -9,6 +9,9 @@ I believe in the power of blending technical precision with artistic flair to cr
 - JavaScript
 - Figma
 - VisualStudioCode
+- Bootstrap
+- Tailwind
+- React
 
 ### Contact me
 - <a href="mailto: charlottevalset@gmail.com">Gmail</a>
