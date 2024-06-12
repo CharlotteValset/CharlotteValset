@@ -16,5 +16,5 @@ I believe in the power of blending technical precision with artistic flair to cr
 ### Contact me
 - <a href="mailto: charlottevalset@gmail.com">Gmail</a>
 - [LinkedIn](https://www.linkedin.com/in/charlotte-valset-6195b521a/)
-- [Portfolio](https://charlottevalset-portfolio.netlify.app/)
+- [Portfolio](https://www.charlottevalset.no/)
 
