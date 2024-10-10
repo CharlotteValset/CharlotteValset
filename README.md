@@ -4,14 +4,16 @@ As a Front-End Developer with a deep passion for UX design, I'm on a mission to 
 I believe in the power of blending technical precision with artistic flair to create digital experiences that are not only functional but also visually appealing and user-centered.
 
 ### Languages and tools
+- Figma
+- VisualStudioCode
 - HTML
 - CSS
 - JavaScript
-- Figma
-- VisualStudioCode
+- TypeScript
 - Bootstrap
 - Tailwind
 - React
+- Rest API
 
 ### Contact me
 - <a href="mailto: charlottevalset@gmail.com">Gmail</a>
