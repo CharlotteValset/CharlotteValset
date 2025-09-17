@@ -22,6 +22,5 @@ In addition, I contribute as a UX Designer for [Juniors.dev](https://github.com/
 ### Contact me
 - 📧 [Email](mailto:charlottevalset@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/charlotte-valset-6195b521a/)  
-- 🌐 [Portfolio](https://www.charlottevalset.no/)  
-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="GitHub logo"> [GitHub](https://github.com/charlottevalset)
+- 🌐 [Portfolio](https://www.charlottevalset.no/)
 
