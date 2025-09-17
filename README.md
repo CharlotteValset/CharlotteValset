@@ -7,6 +7,8 @@ Currently expanding my skills in TypeScript and Python, while also exploring how
 
 Experienced as Scrum Master in an Industry Knowledge course project at Noroff, coordinating the design team and facilitating communication with the development teams to deliver functional solutions together.
 
+In addition, I contribute as a UX Designer for [Juniors.dev](https://github.com/Juniors-Dev), an international collaboration platform for junior developers and designers, where I focus on usability, universal design and creating consistent user experiences.
+
 ### Languages and Tools
 - React
 - JavaScript
