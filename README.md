@@ -1,22 +1,25 @@
 ## Hello, my name is Charlotte! 🤗
-As a Front-End Developer with a deep passion for UX design, I'm on a mission to leverage my 12 years of customer service expertise from the service industry and apply it to the digital realm.
 
-I believe in the power of blending technical precision with artistic flair to create digital experiences that are not only functional but also visually appealing and user-centered.
+A Front-End Developer and UX Designer passionate about creating user-friendly and visually appealing digital products.
+With 12 years of customer service experience, I bring strong communication skills, collaboration and an eye for detail into the tech world.
 
-### Languages and tools
-- Figma
-- VisualStudioCode
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Bootstrap
-- Tailwind
+Currently expanding my skills in TypeScript and Python, while also exploring how AI tools like ChatGPT can support development through faster learning, code review and better documentation.
+
+Experienced as Scrum Master in an Industry Knowledge course project at Noroff, coordinating the design team and facilitating communication with the development teams to deliver functional solutions together.
+
+### Languages and Tools
 - React
-- Rest API
+- JavaScript
+- TypeScript (in progress)
+- Python (in progress)
+- HTML, CSS
+- Tailwind, Bootstrap
+- REST API
+- Figma, Visual Studio Code
 
 ### Contact me
-- <a href="mailto: charlottevalset@gmail.com">Gmail</a>
-- [LinkedIn](https://www.linkedin.com/in/charlotte-valset-6195b521a/)
-- [Portfolio](https://www.charlottevalset.no/)
+- 📧 [Email](mailto:charlottevalset@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/charlotte-valset-6195b521a/)  
+- 🌐 [Portfolio](https://www.charlottevalset.no/)  
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="GitHub logo"> [GitHub](https://github.com/charlottevalset)
 
